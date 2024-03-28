@@ -19,3 +19,8 @@ Inscriptions research
 * [Facet VM](https://docs.facet.org/what-is-facet/overview) - EVM-like vm built on Ethscriptions
 * [Dune Dashboard](https://dune.com/hildobby/inscriptions) - inscriptions on EVM chains
 * [Ethscriptions vs Layer2](https://twitter.com/dumbnamenumbers/status/1736777661928599949)
+
+## Blob inscription
+
+* <https://blobscriptions.io/>
+* <https://docs.ethscriptions.com/esips/esip-8-ethscription-attachments-aka-blobscriptions>
