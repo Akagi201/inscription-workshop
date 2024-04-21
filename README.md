@@ -24,3 +24,7 @@ Inscriptions research
 
 * <https://blobscriptions.io/>
 * <https://docs.ethscriptions.com/esips/esip-8-ethscription-attachments-aka-blobscriptions>
+
+## Bitcoin inscription explorer
+
+* <https://mempool.space/zh/>
